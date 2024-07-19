@@ -9,7 +9,7 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 import totoscarpettweaks.TotoCarpetSettings;
-
+import totoscarpettweaks.mixins.globalmajorpositive.VillagerGossips$ReputationInvoker;
 import java.util.Map;
 import java.util.UUID;
 import java.util.function.Predicate;
